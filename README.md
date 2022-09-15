@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/countrvl" target="_blank">Vladimir</a> 
+<h1 align="center">Привет, я <a href="https://t.me/Rybakov_Vladimir" target="_blank">Владимир</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<!-- <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
+
+
 - 🔭 Работаю над своим проектом - веб интерфейс по управлению сервером VPN
         https://github.com/countrvl/VPNwebI
 - 🌱 Сейчас изучаю TypeScript
