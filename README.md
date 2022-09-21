@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я <a href="https://t.me/Rybakov_Vladimir" target="_blank">Владимир</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- Сейчас изучаю TypeScript и прохожу собеседования в поисках работы.
+- В поиске работы. А пока ищу изучаю TypeScript.
 
 - Работаю над своим проектом - веб интерфейс по управлению сервером VPN
         https://github.com/countrvl/VPNwebI
