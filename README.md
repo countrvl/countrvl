@@ -6,7 +6,7 @@
         https://github.com/countrvl/VPNwebI
 
 
-- Кодю по чуть-чуть 
+- Кодить перестал, тепрь руковожу разработкой по чуть-чуть 
 
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=countrvl&count_private=true&show_icons=true&theme=dark)
 
