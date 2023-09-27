@@ -1,16 +1,11 @@
 <h1 align="center">Привет, я <a href="https://t.me/Rybakov_Vladimir" target="_blank">Владимир</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
-- Работаю над своим проектом - веб интерфейс по управлению сервером VPN
-        https://github.com/countrvl/VPNwebI
-
-
-- Кодить перестал, тепрь руковожу разработкой по чуть-чуть 
+- Кодить почти перестал, тепрь руковожу разработкой по чуть-чуть 
 
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=countrvl&count_private=true&show_icons=true&theme=dark)
 
-- Вот на таких языках 
+- Писал вот на таких языках 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=countrvl&langs_count=8show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
