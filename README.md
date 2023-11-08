@@ -8,6 +8,7 @@
 - Писал вот на таких языках 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=countrvl&langs_count=8show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=countrvl&size_weight=0.5&count_weight=0.5)
 
 <!--
 **countrvl/countrvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
