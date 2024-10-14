@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я <a href="https://t.me/Rybakov_Vladimir" target="_blank">Владимир</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- Кодить почти перестал, тепрь руковожу разработкой по чуть-чуть 
+- Кодить почти перестал, теперь руковожу разработкой по чуть-чуть. 
 <!--
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=countrvl&count_private=true&show_icons=true&theme=dark)
 
